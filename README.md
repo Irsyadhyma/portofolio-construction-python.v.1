@@ -6,7 +6,7 @@ It's a pleasure to greet you guys in this repository. My name Irsyad Adhyma, a g
 
 Quantitative Strategies (or later called 'Quant') is one of the modern strategies implemented in financial industry as there was a huge development in Big Data and Machine Learning. As you know, soon in 2030 will be predicted to be one of a great shifting in Industry since most of the repetitive task will be replaced by AI (artificial intelegence) and one of the repetitive task is BUILDING INVESTMENT THESIS/DECISION.
 
-So what is Quant? if you're wondering.
+## So what is Quant? if you're wondering.
 
 Quantitive Strategies is the term used in using Multiple Historical or Current Big Data which related to Financial Market to Build a Financial Model to predict how the assets price will move in the future.
 
@@ -15,6 +15,8 @@ Quantitative trading originated in the early 20th century as financial markets b
 Advantages like the ability to process large datasets systematically have driven interest in systematic trading approaches. However, the field also comes with its challenges, including technological reliance and substantial risks of losses.
 
 The foundation of modern quantitative finance was laid by Louis Bachelier in 1900 with his thesis introducing the concept of Brownian motion to finance. Bachelier’s work, though not widely recognized at the time, paved the way for future developments in quantitative finance. His introduction of Brownian motion provided a mathematical framework that influenced the development of quantitative models, setting the stage for more sophisticated trading strategies.
+
+## Brief History
 
 The 1960s and 1970s were transformative years for quantitative finance, marked by the introduction of Modern Portfolio Theory (MPT) by Harry Markowitz. MPT revolutionized investment strategies by emphasizing diversification to optimize portfolio performance. The theory introduced the concept of the efficient frontier, which highlights the optimal portfolio combinations for given risk levels.
 
@@ -30,8 +32,10 @@ Hedge funds were among the early adopters of algorithmic trading, using algorith
 
 Algorithmic trading emerged as a dominant force in financial markets by the late 1980s and early 1990s.
 
-FrameWork:
+## FrameWork:
 Big Data (Historical/Current Data) -> Analyzed, Shorted, Clean Data -> Building a Financial Model -> Use the Data to Predict future Asset Price -> Evaluate Model (Update Data, Change Financial Model) -> REPEAT
+
+## Last Word
 
 In order to adapt the change we face soon, here I want to documented my own journey to build portofolio costruction strategies using python. The most easy to understand and compatible to many programming language.
 
